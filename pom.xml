@@ -14,7 +14,7 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<release>1.8</release>
-		<jetty-version>9.2.9.v20150224</jetty-version>
+		<jetty-version>9.3.0.v20150612</jetty-version>
 	</properties>
 
 	<repositories>
